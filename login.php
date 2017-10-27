@@ -10,6 +10,42 @@
    font-size:22px;
    font-style:normal;
    font-weight:normal;
+<html>
+<style>
+  h1{
+   font-size: 30px;
+   
+   border-radius: 2px;
+   text-align: center;
+   color: white;
+   font-family:Helvetica;
+   font-size:22px;
+   font-style:normal;
+   font-weight:normal;
+<html>
+<style>
+  h1{
+   font-size: 30px;
+   
+   border-radius: 2px;
+   text-align: center;
+   color: white;
+   font-family:Helvetica;
+   font-size:22px;
+   font-style:normal;
+   font-weight:normal;
+<html>
+<style>
+  h1{
+   font-size: 30px;
+   
+   border-radius: 2px;
+   text-align: center;
+   color: white;
+   font-family:Helvetica;
+   font-size:22px;
+   font-style:normal;
+   font-weight:normal;
 
 
   }
